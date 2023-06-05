@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on
+### 🔭 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halo-oo&show_icons=true&theme=tokyonight&hide=issues,stars&count_private=true)
 
-✨ It's my current top language
+### ✨ Top language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halo-oo&layout=compact&theme=tokyonight)
