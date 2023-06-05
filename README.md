@@ -1,4 +1,5 @@
 
+### Hi 👋
 <!--
 **Halo-oo/Halo-oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halo-oo&show_icons=true&theme=tokyonight)
+🔭 I’m currently working on
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halo-oo&show_icons=true&theme=tokyonight&hide=issues,stars&count_private=true)
+
+✨ It's my current top language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halo-oo&layout=compact&theme=tokyonight)
