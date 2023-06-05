@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halo-oo&show_icons=true&theme=tokyonight&hide=issues,stars&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Halo-oo&show_icons=true&theme=tokyonight&hide=issues,stars&count_private=true)
 
 ### ✨ Top language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halo-oo&layout=compact&theme=tokyonight)
